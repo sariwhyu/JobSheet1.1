@@ -14,7 +14,7 @@
 - [Jobsheet4.4 - ESP Now+IOT](https://github.com/sariwhyu/TugasNo4)
 
 
-# JobSheet 1.1 JARINGAN SENSOR NIRKABEL MENGGUNAKAN ESP-NOW
+# JobSheet 1.1 - Jaringan Sensor Nirkabel Menggunakan ESP-NOW
 
 ## Alat & Bahan
 
